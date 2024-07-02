@@ -55,7 +55,7 @@ a {
     color: var(--color-primary)
 }
 
-.section {
+.section-header{
     text-align: var(--section-header-align);
 }
 
