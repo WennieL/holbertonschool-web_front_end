@@ -314,7 +314,7 @@ a:active {
     z-index: 1;
 }
 
-.card-inner .card-work:hover {
+.card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -332,7 +332,7 @@ a:active {
     padding-top: 45%;
 }
 
-.card-work, .card-title a::after {
+.card-title, .card-work a::after {
     position: absolute;
     top: 0;
     right: 0;
