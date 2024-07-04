@@ -137,7 +137,7 @@ body {
     height: 0.2rem;
 }
 
-.nac .nav-link .nav-item::before {
+.nav .nav-item:hover nav-link::before {
     background-color: var(--color-primary);
     width: 100%;
 }
