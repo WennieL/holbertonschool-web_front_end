@@ -91,11 +91,11 @@ body {
     padding: var(--header-padding);
 }
 
-.haeder-logo {
+.header-logo {
     position: var(--header-logo-position);
 }
 
-.haeder-logo a {
+.header-logo a {
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
